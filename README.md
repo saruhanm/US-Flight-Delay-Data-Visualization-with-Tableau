@@ -26,7 +26,7 @@ c) You prepared a separate page for delays of main carriers (which have certain 
   
 Upon feedback, I realized that there is a page for every graph in my story which is somewhat confusing. Then I created two dashboards and combined related graphs. Besides, there were some confusing naming in the pages, which I removed.
 ## Project Workspace
-**airline_delay_causes.csv:** The final data set file used for the graphic 
+**airline_delay_causes.rar:** Contains the final data set file used for the graphic 
 **US Flight Delay Data Visualization Project.pdf:** Information on summary, design, and feedback.  
 
 ## Author
